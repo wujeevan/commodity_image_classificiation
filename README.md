@@ -1,0 +1,2 @@
+# commodity_image_classificiation
+基于深度学习的日用品图像分类与识别的研究与应用_本科论文代码
